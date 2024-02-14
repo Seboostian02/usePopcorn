@@ -1,0 +1,15 @@
+Press enter to automaticaly select input search bar
+
+I made a behind the scene counter.
+It counts how many times a person press on the Rating
+star before submiting his final decision.
+Use the React browser extension to see the behaviour in MovieDetails
+
+Loading screens while the API is fetching.
+
+Press "escape" key to close the Movie Details.
+
+If you start to search another movie, while a movie is selected,
+the current movie detail will close - not working right now
+
+The api will start to fetch only if you type at least 3 letters.
